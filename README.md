@@ -65,7 +65,7 @@ I'm Junggi. Currently exploring new technologies and always eager to learn. Let'
 </details>
 
 <details>
-  <summary>#Project Three# - 게임 정보(진행중)</summary>
+  <summary>#Project Three# - 우주여행(진행중/현재 자격증 공부중입니다)</summary>
   
   [GitHub Repository](https://github.com/muhwa91/my_/tree/main/portfolio))
 
