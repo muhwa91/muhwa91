@@ -49,7 +49,7 @@ I'm Junggi. Currently exploring new technologies and always eager to learn. Let'
 </details>
 
 <details>
-  <summary>#Project Two# - 독서습관&도서추천(진행중)BOOKPICK</summary>
+  <summary>#Project Two# - 독서습관&도서추천 BOOKPICK</summary>
   
   [GitHub Repository](https://github.com/1204PHP/BOOKPICK)
 
@@ -65,7 +65,7 @@ I'm Junggi. Currently exploring new technologies and always eager to learn. Let'
 </details>
 
 <details>
-  <summary>#Project Three# - 우주여행(진행중/현재 자격증 공부중입니다)</summary>
+  <summary>#Project Three# - 종합 여행 플랫폼(진행중/현재 자격증 공부중입니다)</summary>
   
   [GitHub Repository](https://github.com/muhwa91/my_/tree/main/portfolio))
 
