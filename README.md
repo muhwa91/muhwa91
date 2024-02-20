@@ -67,7 +67,7 @@ I'm Junggi. Currently exploring new technologies and always eager to learn. Let'
 <details>
   <summary>#Project Three# - 종합 여행 플랫폼(진행중/현재 자격증 공부중입니다)</summary>
   
-  [GitHub Repository](https://github.com/muhwa91/my_/tree/main/portfolio))
+  [GitHub Repository](https://github.com/WeetProject/Weet)
 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
