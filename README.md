@@ -65,7 +65,7 @@ I'm Junggi. Currently exploring new technologies and always eager to learn. Let'
 </details>
 
 <details>
-  <summary>#Project Three# - 종합 여행 플랫폼(진행중/현재 자격증 공부중입니다)</summary>
+  <summary>#Project Three# - 종합 여행 플랫폼(관리자 페이지 작업 진행 중)</summary>
   
   [GitHub Repository](https://github.com/WeetProject/Weet)
 
